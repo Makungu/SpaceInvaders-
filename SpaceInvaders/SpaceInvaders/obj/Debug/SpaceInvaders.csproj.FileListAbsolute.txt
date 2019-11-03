@@ -1,0 +1,134 @@
+C:\Users\Damon\Documents\First year 2017\CS102\Project\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe.config
+C:\Users\Damon\Documents\GitHub\pickelz\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe.config
+C:\Users\Damon\Documents\GitHub\pickelz\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+C:\Users\Damon\Documents\GitHub\pickelz\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+C:\Users\Damon\Documents\GitHub\pickelz\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csprojResolveAssemblyReference.cache
+C:\Users\Damon\Documents\GitHub\pickelz\SpaceInvaders\SpaceInvaders\obj\Debug\MainWindow.g.cs
+C:\Users\Damon\Documents\GitHub\pickelz\SpaceInvaders\SpaceInvaders\obj\Debug\App.g.cs
+C:\Users\Damon\Documents\GitHub\pickelz\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders_MarkupCompile.cache
+C:\Users\Damon\Documents\GitHub\pickelz\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders_MarkupCompile.lref
+C:\Users\Damon\Documents\GitHub\pickelz\SpaceInvaders\SpaceInvaders\obj\Debug\MainWindow.baml
+C:\Users\Damon\Documents\GitHub\pickelz\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.g.resources
+C:\Users\Damon\Documents\GitHub\pickelz\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.Properties.Resources.resources
+C:\Users\Damon\Documents\GitHub\pickelz\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.GenerateResource.Cache
+C:\Users\Damon\Documents\GitHub\pickelz\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.exe
+C:\Users\Damon\Documents\GitHub\pickelz\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.pdb
+\\ict.ru.ac.za\DFS\UGHomes\G17C9313\Desktop\pickelz-master\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe.config
+\\ict.ru.ac.za\DFS\UGHomes\G17C9313\Desktop\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.exe
+\\ict.ru.ac.za\DFS\UGHomes\G17C9313\Desktop\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.pdb
+\\ict.ru.ac.za\DFS\UGHomes\G17C9313\Desktop\pickelz-master\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+\\ict.ru.ac.za\DFS\UGHomes\G17C9313\Desktop\pickelz-master\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+\\ict.ru.ac.za\DFS\UGHomes\G17C9313\Desktop\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csprojResolveAssemblyReference.cache
+\\ict.ru.ac.za\DFS\UGHomes\G17C9313\Desktop\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\MainWindow.g.cs
+\\ict.ru.ac.za\DFS\UGHomes\G17C9313\Desktop\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\App.g.cs
+\\ict.ru.ac.za\DFS\UGHomes\G17C9313\Desktop\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders_MarkupCompile.cache
+\\ict.ru.ac.za\DFS\UGHomes\G17C9313\Desktop\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders_MarkupCompile.lref
+\\ict.ru.ac.za\DFS\UGHomes\G17C9313\Desktop\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\MainWindow.baml
+\\ict.ru.ac.za\DFS\UGHomes\G17C9313\Desktop\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.g.resources
+\\ict.ru.ac.za\DFS\UGHomes\G17C9313\Desktop\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.Properties.Resources.resources
+\\ict.ru.ac.za\DFS\UGHomes\G17C9313\Desktop\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.GenerateResource.Cache
+C:\Users\Damon\Documents\GitHub\pickelz\pickelz-master\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe.config
+C:\Users\Damon\Documents\GitHub\pickelz\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.exe
+C:\Users\Damon\Documents\GitHub\pickelz\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.pdb
+C:\Users\Damon\Documents\GitHub\pickelz\pickelz-master\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+C:\Users\Damon\Documents\GitHub\pickelz\pickelz-master\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+C:\Users\Damon\Documents\GitHub\pickelz\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csprojResolveAssemblyReference.cache
+C:\Users\Damon\Documents\GitHub\pickelz\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\MainWindow.g.cs
+C:\Users\Damon\Documents\GitHub\pickelz\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\App.g.cs
+C:\Users\Damon\Documents\GitHub\pickelz\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders_MarkupCompile.cache
+C:\Users\Damon\Documents\GitHub\pickelz\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders_MarkupCompile.lref
+C:\Users\Damon\Documents\GitHub\pickelz\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\MainWindow.baml
+C:\Users\Damon\Documents\GitHub\pickelz\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.g.resources
+C:\Users\Damon\Documents\GitHub\pickelz\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.Properties.Resources.resources
+C:\Users\Damon\Documents\GitHub\pickelz\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.GenerateResource.Cache
+\\ict.ru.ac.za\DFS\UGHomes\g17c9313\Desktop\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe.config
+\\ict.ru.ac.za\DFS\UGHomes\g17c9313\Desktop\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.exe
+\\ict.ru.ac.za\DFS\UGHomes\g17c9313\Desktop\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.pdb
+\\ict.ru.ac.za\DFS\UGHomes\g17c9313\Desktop\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+\\ict.ru.ac.za\DFS\UGHomes\g17c9313\Desktop\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+\\ict.ru.ac.za\DFS\UGHomes\g17c9313\Desktop\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csprojResolveAssemblyReference.cache
+\\ict.ru.ac.za\DFS\UGHomes\g17c9313\Desktop\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\MainWindow.g.cs
+\\ict.ru.ac.za\DFS\UGHomes\g17c9313\Desktop\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\App.g.cs
+\\ict.ru.ac.za\DFS\UGHomes\g17c9313\Desktop\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders_MarkupCompile.cache
+\\ict.ru.ac.za\DFS\UGHomes\g17c9313\Desktop\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders_MarkupCompile.lref
+\\ict.ru.ac.za\DFS\UGHomes\g17c9313\Desktop\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\MainWindow.baml
+\\ict.ru.ac.za\DFS\UGHomes\g17c9313\Desktop\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.g.resources
+\\ict.ru.ac.za\DFS\UGHomes\g17c9313\Desktop\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.Properties.Resources.resources
+\\ict.ru.ac.za\DFS\UGHomes\g17c9313\Desktop\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.GenerateResource.Cache
+C:\Users\Damon\Documents\GitHub\pickelz\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe.config
+C:\Users\Damon\Documents\GitHub\pickelz\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+C:\Users\Damon\Documents\GitHub\pickelz\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+C:\Users\Damon\Documents\GitHub\pickelz\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csprojResolveAssemblyReference.cache
+C:\Users\Damon\Documents\GitHub\pickelz\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\MainWindow.g.cs
+C:\Users\Damon\Documents\GitHub\pickelz\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\App.g.cs
+C:\Users\Damon\Documents\GitHub\pickelz\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders_MarkupCompile.cache
+C:\Users\Damon\Documents\GitHub\pickelz\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders_MarkupCompile.lref
+C:\Users\Damon\Documents\GitHub\pickelz\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\MainWindow.baml
+C:\Users\Damon\Documents\GitHub\pickelz\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.g.resources
+C:\Users\Damon\Documents\GitHub\pickelz\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.Properties.Resources.resources
+C:\Users\Damon\Documents\GitHub\pickelz\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.GenerateResource.Cache
+C:\Users\Damon\Documents\GitHub\pickelz\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.exe
+C:\Users\Damon\Documents\GitHub\pickelz\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.pdb
+\\ict.ru.ac.za\DFS\UGHomes\g17c9313\Desktop\pickelz-master\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe.config
+\\ict.ru.ac.za\DFS\UGHomes\g17c9313\Desktop\pickelz-master\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.exe
+\\ict.ru.ac.za\DFS\UGHomes\g17c9313\Desktop\pickelz-master\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.pdb
+\\ict.ru.ac.za\DFS\UGHomes\g17c9313\Desktop\pickelz-master\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+\\ict.ru.ac.za\DFS\UGHomes\g17c9313\Desktop\pickelz-master\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+\\ict.ru.ac.za\DFS\UGHomes\g17c9313\Desktop\pickelz-master\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csprojResolveAssemblyReference.cache
+\\ict.ru.ac.za\DFS\UGHomes\g17c9313\Desktop\pickelz-master\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\MainWindow.g.cs
+\\ict.ru.ac.za\DFS\UGHomes\g17c9313\Desktop\pickelz-master\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\App.g.cs
+\\ict.ru.ac.za\DFS\UGHomes\g17c9313\Desktop\pickelz-master\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders_MarkupCompile.cache
+\\ict.ru.ac.za\DFS\UGHomes\g17c9313\Desktop\pickelz-master\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders_MarkupCompile.lref
+\\ict.ru.ac.za\DFS\UGHomes\g17c9313\Desktop\pickelz-master\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\MainWindow.baml
+\\ict.ru.ac.za\DFS\UGHomes\g17c9313\Desktop\pickelz-master\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.g.resources
+\\ict.ru.ac.za\DFS\UGHomes\g17c9313\Desktop\pickelz-master\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.Properties.Resources.resources
+\\ict.ru.ac.za\DFS\UGHomes\g17c9313\Desktop\pickelz-master\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.GenerateResource.Cache
+\\ict.ru.ac.za\DFS\UGHomes\g17c9313\Desktop\pickelz-master\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders_Content.g.cs
+\\ict.ru.ac.za\DFS\UGHomes\g17c9313\Desktop\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders_Content.g.cs
+\\ict.ru.ac.za\DFS\UGHomes\g16h0647\Desktop\g\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe.config
+\\ict.ru.ac.za\DFS\UGHomes\g16h0647\Desktop\g\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.exe
+\\ict.ru.ac.za\DFS\UGHomes\g16h0647\Desktop\g\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.pdb
+\\ict.ru.ac.za\DFS\UGHomes\g16h0647\Desktop\g\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+\\ict.ru.ac.za\DFS\UGHomes\g16h0647\Desktop\g\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+\\ict.ru.ac.za\DFS\UGHomes\g16h0647\Desktop\g\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csprojResolveAssemblyReference.cache
+\\ict.ru.ac.za\DFS\UGHomes\g16h0647\Desktop\g\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\MainWindow.g.cs
+\\ict.ru.ac.za\DFS\UGHomes\g16h0647\Desktop\g\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\App.g.cs
+\\ict.ru.ac.za\DFS\UGHomes\g16h0647\Desktop\g\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders_Content.g.cs
+\\ict.ru.ac.za\DFS\UGHomes\g16h0647\Desktop\g\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders_MarkupCompile.cache
+\\ict.ru.ac.za\DFS\UGHomes\g16h0647\Desktop\g\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders_MarkupCompile.lref
+\\ict.ru.ac.za\DFS\UGHomes\g16h0647\Desktop\g\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\MainWindow.baml
+\\ict.ru.ac.za\DFS\UGHomes\g16h0647\Desktop\g\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.g.resources
+\\ict.ru.ac.za\DFS\UGHomes\g16h0647\Desktop\g\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.Properties.Resources.resources
+\\ict.ru.ac.za\DFS\UGHomes\g16h0647\Desktop\g\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.GenerateResource.Cache
+\\ict.ru.ac.za\DFS\UGHomes\g16h0647\Desktop\g\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\StartScreen.g.cs
+\\ict.ru.ac.za\DFS\UGHomes\g16h0647\Desktop\g\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\StartScreen.baml
+\\ict.ru.ac.za\DFS\UGHomes\g16h0647\Desktop\g\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\LeaderBoard.g.cs
+\\ict.ru.ac.za\DFS\UGHomes\g16h0647\Desktop\g\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\LeaderBoard.baml
+C:\Users\Damon\Documents\GitHub\pickelz\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\LeaderBoard.g.cs
+C:\Users\Damon\Documents\GitHub\pickelz\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\StartScreen.g.cs
+C:\Users\Damon\Documents\GitHub\pickelz\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders_Content.g.cs
+C:\Users\Damon\Documents\GitHub\pickelz\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\LeaderBoard.baml
+C:\Users\Damon\Documents\GitHub\pickelz\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\StartScreen.baml
+\\ict.ru.ac.za\DFS\UGHomes\g17c9313\Desktop\pickelz-master\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\LeaderBoard.g.cs
+\\ict.ru.ac.za\DFS\UGHomes\g17c9313\Desktop\pickelz-master\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\StartScreen.g.cs
+\\ict.ru.ac.za\DFS\UGHomes\g17c9313\Desktop\pickelz-master\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\LeaderBoard.baml
+\\ict.ru.ac.za\DFS\UGHomes\g17c9313\Desktop\pickelz-master\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\StartScreen.baml
+D:\LIteral chaos\University\First Year University\CS 102\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.exe
+D:\LIteral chaos\University\First Year University\CS 102\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.pdb
+D:\LIteral chaos\University\First Year University\CS 102\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe.config
+D:\LIteral chaos\University\First Year University\CS 102\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+D:\LIteral chaos\University\First Year University\CS 102\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+D:\LIteral chaos\University\First Year University\CS 102\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csprojAssemblyReference.cache
+D:\LIteral chaos\University\First Year University\CS 102\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\LeaderBoard.g.cs
+D:\LIteral chaos\University\First Year University\CS 102\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\MainWindow.g.cs
+D:\LIteral chaos\University\First Year University\CS 102\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\StartScreen.g.cs
+D:\LIteral chaos\University\First Year University\CS 102\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\App.g.cs
+D:\LIteral chaos\University\First Year University\CS 102\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders_Content.g.cs
+D:\LIteral chaos\University\First Year University\CS 102\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders_MarkupCompile.cache
+D:\LIteral chaos\University\First Year University\CS 102\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders_MarkupCompile.lref
+D:\LIteral chaos\University\First Year University\CS 102\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\LeaderBoard.baml
+D:\LIteral chaos\University\First Year University\CS 102\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\MainWindow.baml
+D:\LIteral chaos\University\First Year University\CS 102\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\StartScreen.baml
+D:\LIteral chaos\University\First Year University\CS 102\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.g.resources
+D:\LIteral chaos\University\First Year University\CS 102\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.Properties.Resources.resources
+D:\LIteral chaos\University\First Year University\CS 102\pickelz-master\pickelz-master\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.GenerateResource.cache
